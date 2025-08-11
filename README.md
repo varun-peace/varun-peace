@@ -68,6 +68,6 @@ Open to collaborating on:
 
 ---
 
-â­ **"Innovation distinguishes between a leader and a follower"** - Steve Jobs
+📍**"Innovation distinguishes between a leader and a follower"** - Steve Jobs
 
 *Thank you for visiting my profile! Feel free to explore my repositories and connect for potential collaborations.*
