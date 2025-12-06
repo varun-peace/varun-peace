@@ -6,7 +6,7 @@ Passionate Data Science and Machine Learning enthusiast with hands-on experience
 
 ## 💻 Featured Projects
 
-### [Lane Detection System](https://github.com/varun-peace/lane-detection)
+### [Lane Detection System](https://github.com/varun-peace/lane_detection)
 Computer vision application for autonomous driving systems utilizing OpenCV and deep learning techniques for real-time road lane detection and tracking.
 
 **Tech Stack:** Python, OpenCV, TensorFlow, NumPy  
