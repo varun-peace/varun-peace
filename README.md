@@ -12,7 +12,7 @@ Computer vision application for autonomous driving systems utilizing OpenCV and 
 **Tech Stack:** Python, OpenCV, TensorFlow, NumPy  
 **Key Features:** Real-time processing, edge detection algorithms, perspective transformation
 
-### [Fake News Detection Engine](https://github.com/varun-peace/fake-news-detection)
+### [Fake News Detection Engine](https://github.com/varun-peace/fakenewsdetection)
 Machine learning classifier for news authenticity verification using natural language processing and ensemble methods.
 
 **Tech Stack:** Python, scikit-learn, NLTK, Pandas  
