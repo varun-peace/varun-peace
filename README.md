@@ -48,11 +48,6 @@ Continuously expanding knowledge through:
 - Open-source contributions
 - Technical documentation and knowledge sharing
 
-## 📈 GitHub Statistics
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=varun-peace&show_icons=true&theme=default&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=varun-peace&layout=compact&theme=default&hide_border=true)
-
 ## 🧭Professional Network
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/varun-a-35991b2a4?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
@@ -68,6 +63,6 @@ Open to collaborating on:
 
 ---
 
-📍**"Innovation distinguishes between a leader and a follower"** - Steve Jobs
+📍"Innovation distinguishes between a leader and a follower" - Steve Jobs
 
 *Thank you for visiting my profile! Feel free to explore my repositories and connect for potential collaborations.*
